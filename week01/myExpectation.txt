@@ -1,1 +1,3 @@
 #ostutorial
+
+ekspektasi saya terhadap matakuliah OS adalah, lebih mudah dipahami dari matakuliah pemrograman lainnya.
