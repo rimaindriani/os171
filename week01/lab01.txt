@@ -21,3 +21,4 @@ drwxr-xr-x  2 rima.indriani StafCS 4096 Feb 13 14:26 week09
 drwxr-xr-x  2 rima.indriani StafCS 4096 Feb 13 14:27 week10
 drwxr-xr-x  2 rima.indriani StafCS 4096 Feb 13 14:28 xtra
 /home/fasilkom/mahasiswa/r/rima.indriani/os171/week01
+Today is 13 Feb 2017 at 15:21:14
