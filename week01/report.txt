@@ -1,0 +1,3 @@
+Pada Lab week01 ini saya di tugaskan untuk membuat directory untuk lab week01
+sampai week10. Selain itu juga membuat file txt dan mem-push dan pull ke
+repository.
