@@ -1,3 +1,0 @@
-pada lab week0 saya diberi tugas untuk membuat google account, lalu digunakan
-untuk membuat github account. Setelah itu pada github saya membuat repository
-yang dinamakan os171.Setalah membuat repository baru, saya diharuskan untuk konfirmasi melalui google form. setelah itu login ke badak.cs.ui.ac.id.
