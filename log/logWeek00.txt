@@ -1,0 +1,5 @@
+w00-170207-10-LR-About: Introduction to Operaitng System, From:Lecturer
+w00-170209-10-LR-About: Introduction to Operating System, From:Lecturer
+w00-170210-12-PS-About: Making Google account and Github account
+w00-170211-10-PS-About: Log in Badak.cs.ui.ac.id
+w00-170212-09-PS-About: Read up the task for lab week01

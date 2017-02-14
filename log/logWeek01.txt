@@ -1,0 +1,5 @@
+week01-170213-13-DS-About: Task lab week01 
+week01-170213-15-PS-About: Doing task lab week01
+week01-170214-10-LR-About: HKI and Scripting From:Lecturer
+week01-170214-15-PS-About: Log for additional task for every week
+
