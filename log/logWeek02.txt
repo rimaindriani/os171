@@ -1,0 +1,6 @@
+
+w02-170220-20-PS-About: Read up the task for lab week02
+w02-170221-10-LR-About: Security and protection From: Lecturer
+w02-170221-15-PS-About: Doing lab week02
+w02-170223-10-LR-About: Learning C Programming From: Lecturer
+w02-170225-14-PS-About: Making log for week02
