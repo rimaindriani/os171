@@ -1,0 +1,11 @@
+w006-170406-10-LR-About : Processes And Threads From Lecturer
+w006-170406-11-LR-Watching Demo From Lecturer
+w006-170410-13-DS- Discuss About Fork( )
+w006-170410-16-LR- Watching video related About Fork( )
+w006-170410-20-DS- Discuss About Fork( ) 
+w006-170410-10-LR-About : Processes And Threads From Lecturer
+w006-170411-11-LR-Watching Demo From Lecturer
+w006-170413-19-DS- Discuss About Lab week06
+w006-170413-23-PS-About : Lab week06
+w006-170414-15-PS-About : Lab week06
+w006-170415-13-PS-About : Lab week06
