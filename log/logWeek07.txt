@@ -1,0 +1,8 @@
+w007-170413-10-LR-About : Virtualization From Lecturer
+w007-170413-11-LR-Watching Demo From Lecturer
+w008-170418-10-LR-About : Synchronization From Lecturer
+w008-170418-11-LR-Watching Demo From Lecturer
+w008-170420-10-LR-About : Scheduling & CPU Utilization From Lecturer
+w008-170420-11-LR-Watching Demo From Lecturer
+w008-170421-19-PS-About : Lab week07
+w008-170422-13-PS-About : Lab week07
